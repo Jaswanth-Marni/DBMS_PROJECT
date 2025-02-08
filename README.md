@@ -1,5 +1,5 @@
 # Diagnostic Lab Management System (DLM)
-
+.
 ## Overview
 The **Diagnostic Lab Management System (DLM)** is a database-driven project designed to manage diagnostic lab operations efficiently. It includes functionalities for managing admins, tests, and patient records, ensuring smooth operations and secure data handling.
 
